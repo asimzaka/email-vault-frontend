@@ -1,0 +1,23 @@
+<template>
+  <svg
+    width="10"
+    height="10"
+    viewBox="0 0 10 10"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M8.4375 2.8125L4.0625 7.1875L1.875 5"
+      stroke="white"
+      stroke-width="1.53"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+  </svg>
+</template>
+
+<script setup>
+defineOptions({
+  name: "CheckIcon",
+});
+</script>

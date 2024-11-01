@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    // Other options you may need
+  },
+  "include": ["src"],         // Ensures src is included
+  "exclude": ["node_modules", "dist"]
+}
